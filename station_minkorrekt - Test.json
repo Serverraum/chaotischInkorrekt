@@ -174,7 +174,7 @@
                          "value":"X_Test.html"
                         }],
                  "rotation":0,
-                 "type":"objectgroup",
+                 "type":"website",
                  "visible":true,
                  "width":3456,
                  "x":64,
@@ -191,7 +191,7 @@
                          "value":"https:\/\/streaming.test.c3voc.de\/rc3\/infobeamer"
                         }],
                  "rotation":0,
-                 "type":"objectgroup",
+                 "type":"website",
                  "visible":true,
                  "width":256,
                  "x":1472,
