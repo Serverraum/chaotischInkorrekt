@@ -188,7 +188,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"<iframe src=\"https:\/\/streaming.test.c3voc.de\/rc3\/embed\/infobeamer\/hls\/native\" width=\"1024\" height=\"576\" frameborder=\"none\" allowfullscreen=\"allowfullscreen\" seamless=\"seamless\" scrolling=\"no\"><\/iframe>"
+                         "value":"https:\/\/streaming.test.c3voc.de\/rc3\/embed\/infobeamer\/hls\/native"
                         }],
                  "rotation":0,
                  "type":"website",
